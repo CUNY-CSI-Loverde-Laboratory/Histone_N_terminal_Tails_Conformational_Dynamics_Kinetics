@@ -1,7 +1,13 @@
 # Histone_N_terminal_Tails_Conformational_Dynamics_Kinetics
 The example of data analysis of Histone tails are shown in the Jupyter notebooks here. All the data analysis is performed in Python3 using MDAnalysis. The Jupyter notebook shows both input and the expected output. Please note that the user may need to modify the input as per their requirement. The Jupyter notebook also contains the comments that can provide the guide for input.  
+
+# Trajectories ZENODO Link
+Please find the Zenodo link for the trajectories. 
+https://zenodo.org/records/18715984
+
 # Software Requirements 
 The Jupyter notebooks were tested on Ubuntu server 22.04 with python version 3.9.7 kernel using conda. The list of required python libraries is provided below. Install time might be 30 minutes. 
+
 ### Python Libraries 
 + PyEMMA 
 + MDAnalysis (2.1.0)
